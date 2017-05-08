@@ -1,0 +1,16 @@
+!***> Start Mobile emulator in Chrome
+|script          |selenium driver setup                                            |
+|start driver for|chrome mobile emulation|with profile|!{deviceName:Apple iPhone 6}|
+|show            |driver description                                               |
+*!
+
+!***> Libraries
+|Library     |
+|browser test|
+*!
+
+|script                             |
+|delete all cookies                 |
+|set browser size to maximum        |
+|seconds before timeout          |30|
+|seconds before page load timeout|30|
