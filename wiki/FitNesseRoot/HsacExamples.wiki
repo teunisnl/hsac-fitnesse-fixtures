@@ -1,7 +1,7 @@
 ---
 Help: Description and sample usage of the hsac-fitnesse-fixtures project
 ---
-!contents -R2 -g -p -f -h
+!contents -R6 -g -p -f -h
 
 The hsac-fitnesse-fixtures project assists in testing (SOAP) web services and web applications. To this end it contains a baseline installation of [[!-FitNesse-!][http://fitnesse.org]] and some !-FitNesse-! fixture (base) classes.
 
