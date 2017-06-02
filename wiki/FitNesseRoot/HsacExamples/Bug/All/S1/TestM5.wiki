@@ -1,0 +1,6 @@
+---
+Suites: run
+---
+|script|browser test          |
+|open  |http://www.funda.nl   |
+|show  |take screenshot|Foto_5|

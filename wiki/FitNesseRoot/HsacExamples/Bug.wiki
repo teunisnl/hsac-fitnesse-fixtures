@@ -1,0 +1,8 @@
+---
+Suite
+---
+!contents -R2 -g -p -f -h
+
+!define slim.port {0}
+
+!define TEST_SYSTEM {slim}
